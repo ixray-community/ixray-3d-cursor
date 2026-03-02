@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w override="add">
+    <cursor_3d x="0" y="0" width="42.7" height="41" stretch="1" native_scale="false" use_model="true">
+        <visual scale="1.35">dynamics\interface\ui_3d_cursor\ui_3d_cursor.ogf</visual>
+    </cursor_3d>
+</w>
